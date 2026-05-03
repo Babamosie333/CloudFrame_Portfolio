@@ -4,7 +4,7 @@
 
 A cinematic, scroll-driven 3D portfolio built with **Next.js**, **Three.js / React Three Fiber**, and **GSAP** — featuring immersive WebGL scenes, portal-based navigation, and a dark/light theme system.
 
-**Live →** [cloudframe.vercel.app](https://cloudframe.vercel.app)
+**Live →** [cloudframe_folio.vercel.app](https://cloudframe_folio.vercel.app)
 
 ---
 
